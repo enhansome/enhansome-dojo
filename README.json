@@ -1,0 +1,988 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Roadmap",
+          "description": "Dojo Roadmap (all versions)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-27T16:36:32Z",
+            "owner": "dojo",
+            "repo": "meta",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dojo Meta",
+          "description": "Dojo 2 contribution and coding guidelines",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-27T16:36:32Z",
+            "owner": "dojo",
+            "repo": "meta",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reference guide",
+          "description": "http://dojotoolkit.org/reference-guide/1.10/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-26T15:56:40Z",
+            "owner": "dojo",
+            "repo": "docs",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dojo Website",
+          "description": "Website for Dojo Toolkit 1.x to 2.x transition",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-08T13:57:09Z",
+            "owner": "dojo",
+            "repo": "dojo-website",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "DojoToolkit.org resources and documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dojo the Good parts",
+          "description": "ESRI Developer Summit Presentation held March 10-13th 2014 in Palm Springs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2014-03-14T05:02:38Z",
+            "owner": "DavidSpriggs",
+            "repo": "Dojo--The-Good-Parts",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dojo Toolkit 1.9 tutorial",
+          "description": "A tutorial using Dojo Toolkit 1.9",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2018-02-24T18:29:16Z",
+            "owner": "cepa",
+            "repo": "dojo-tutorial",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dojo Boilerplate",
+          "description": "A starting boilerplate for developing with Dojo Toolkit",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2015-10-01T22:41:49Z",
+            "owner": "csnover",
+            "repo": "dojo-boilerplate",
+            "stars": 363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dboostrap",
+          "description": "Bootstrap theme for Dojo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2014-10-22T14:46:58Z",
+            "owner": "atoha",
+            "repo": "dbootstrap",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dojo-node-boilerplate",
+          "description": "A quickstart \"template\" for using Dojo Toolkit on NodeJS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-12-21T17:48:56Z",
+            "owner": "kitsonk",
+            "repo": "dojo-node-boilerplate",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dojo.js",
+          "description": "Minimalistic boilerplate to start your dojo with Jasmine and Gulp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-08-17T13:21:31Z",
+            "owner": "gpedro",
+            "repo": "dojo.js",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dojo Twitter bootstrap",
+          "description": "An implementation of the Twitter Bootstrap framework using Dojo",
+          "children": []
+        }
+      ],
+      "title": "Bootstraps and boilerplates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sitepen dstore",
+          "description": "Data infrastructure framework, providing the tools for modelling and interacting with data collections and objects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-08T17:24:56Z",
+            "owner": "dojo",
+            "repo": "dojo1-dstore",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leadfoot",
+          "description": "A JavaScript client library that brings cross-platform consistency to the Selenium WebDriver API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-04T02:25:56Z",
+            "owner": "theintern",
+            "repo": "leadfoot",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deliteful",
+          "description": "Multichannel (desktop/mobile) UI Custom Elements Library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-06T08:06:14Z",
+            "owner": "ibm-js",
+            "repo": "deliteful",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "delite",
+          "description": "HTML Custom Element / Widget infrastructure",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T03:33:26Z",
+            "owner": "ibm-js",
+            "repo": "delite",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "generator-dojo",
+          "description": "A yeoman generator for Dojo projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-08-22T15:18:15Z",
+            "owner": "bryanforbes",
+            "repo": "generator-dojo",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AngularJS Dojo",
+          "description": "AngularJS directives for dojo widgets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-04-18T06:18:12Z",
+            "owner": "adrobisch",
+            "repo": "angular-dojo",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grunt-dojo",
+          "description": "Build Dojo inside a Grunt task",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-07-30T17:35:53Z",
+            "owner": "phated",
+            "repo": "grunt-dojo",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dojo-smore",
+          "description": "package with Dojo/Store implementation",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2015-02-21T22:16:50Z",
+            "owner": "kfranqueiro",
+            "repo": "dojo-smore",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grunt-dojo2",
+          "description": "Build Dojo2 inside a Grunt task",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2019-12-13T14:29:48Z",
+            "owner": "dojo",
+            "repo": "grunt-dojo2",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "karma-dojo",
+          "description": "A Karma plugin. Adapter for Dojo Toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2013-11-26T12:44:03Z",
+            "owner": "garcimouche",
+            "repo": "karma-dojo",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Grids",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "xgrid",
+              "description": "dgrid extensions.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "item",
+          "title": "xaction",
+          "description": "Component providing UI and logic for user actions.",
+          "children": []
+        }
+      ],
+      "title": "Packages, libraries and scripts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dojo core",
+          "description": "Dojo 2 package containing TypeScript and JavaScript core utilities",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2018-07-30T12:21:49Z",
+            "owner": "dojo",
+            "repo": "core",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dojo widgets",
+          "description": "A core UI component library for Dojo 2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-11T17:40:19Z",
+            "owner": "dojo",
+            "repo": "widgets",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dojo Command Line Tooling",
+          "description": "Command Line Tooling for Dojo2 Applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-04-17T05:35:09Z",
+            "owner": "dojo",
+            "repo": "cli",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dojo loader",
+          "description": "AMD loader for Dojo2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-11T21:48:00Z",
+            "owner": "dojo",
+            "repo": "loader",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dojo routing",
+          "description": "Dojo2 Routing",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2018-07-30T12:24:40Z",
+            "owner": "dojo",
+            "repo": "routing",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dojo shim",
+          "description": "Modules that provide modular fills of ES6+ functionality",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2018-07-30T12:25:36Z",
+            "owner": "dojo",
+            "repo": "shim",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DOM Utilities",
+          "description": "Dojo2 DOM Utilities",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2017-10-18T22:26:46Z",
+            "owner": "dojo",
+            "repo": "dom",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dojo compose",
+          "description": "Dojo2 Composition Library",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2017-10-31T16:43:49Z",
+            "owner": "dojo",
+            "repo": "compose",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dojo2 App",
+          "description": "An application framework for Dojo 2 (example)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2017-10-31T16:59:07Z",
+            "owner": "dojo",
+            "repo": "app",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dojo has",
+          "description": "A feature detection library",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2018-07-30T12:23:06Z",
+            "owner": "dojo",
+            "repo": "has",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dojo parse",
+          "description": "A package for declaratively instantiating widgets.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2017-04-11T09:36:12Z",
+            "owner": "dojo",
+            "repo": "parser",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Dojo 2"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dojango",
+          "description": "Dojo and Django Python framework integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-11-22T10:35:34Z",
+            "owner": "klipstein",
+            "repo": "dojango",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dojo Maven",
+          "description": "Maven packaging of the Dojo Toolkit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-12-04T17:53:46Z",
+            "owner": "cometd",
+            "repo": "dojo-maven",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "ASP.NET",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Reactive Extensions",
+              "description": "Reactive Extensions bindings for the Dojo Toolkit",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2014-08-25T21:41:33Z",
+                "owner": "Reactive-Extensions",
+                "repo": "RxJS-Dojo",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dojo.NET",
+              "description": ".NET class library that provides WebControl bindings to ASP.NET websites (both WebForms and MVC, including Razor) using the Dojo toolkit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2012-05-24T17:57:19Z",
+                "owner": "lstratman",
+                "repo": "Dojo.NET",
+                "stars": 5
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Node.js",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dojos",
+              "description": "Server side dojo on NodeJS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2013-03-01T07:41:20Z",
+                "owner": "supnate",
+                "repo": "dojos",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dojo-node",
+              "description": "Lightwave Dojo wrapper for Node.js",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2015-04-06T16:11:18Z",
+                "owner": "agebrock",
+                "repo": "dojo-node",
+                "stars": 7
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "PHP",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dojo & Composer",
+              "description": "custom Composer installers for zoop packages including Dojo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "PHP",
+                "last_commit": "2013-09-04T00:32:04Z",
+                "owner": "zoopcommerce",
+                "repo": "pixie",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dojo & Zend PHP framework",
+              "description": "integrating Dojo Toolkit with Zend Framework through DojoModule",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "title": "Serverside integrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Intern Yeoman generator",
+          "description": "Yeoman generator - Intern",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-04-17T15:28:50Z",
+            "owner": "naglalakk",
+            "repo": "generator-intern",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Intern Yeoman page objects",
+          "description": "A Yeoman generator to create unit test and suites",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-04-15T18:12:26Z",
+            "owner": "glamb",
+            "repo": "generator-internjs-pageobjects",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "todomvc",
+          "description": "Helping you select an MV* framework - todo app examples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-06T23:35:53Z",
+            "owner": "tastejs",
+            "repo": "todomvc",
+            "stars": 28953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dojo2 Example",
+          "description": "Dojo 2 Examples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-09-26T15:31:12Z",
+            "owner": "dojo",
+            "repo": "examples",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AuShada",
+          "description": "Django and Dojo application for Electronic Medical Records (EMR) and Public Health Management",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2018-08-17T04:51:14Z",
+            "owner": "dreaswar",
+            "repo": "AuShadha",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dojo Demo",
+          "description": "Dojo demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2011-07-13T05:27:56Z",
+            "owner": "rmurphey",
+            "repo": "dojo-demo",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dojorama",
+          "description": "Single page demo application based on Dojo 1.9, Twitter Bootstrap 3 and history API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-02-23T11:47:11Z",
+            "owner": "sirprize",
+            "repo": "dojorama",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dig Dug",
+          "description": "A JavaScript library for launching WebDriver service tunnels",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-01T01:25:58Z",
+            "owner": "theintern",
+            "repo": "digdug",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rstwiki",
+          "description": "Simple reST/wiki system built with Python and Dojo Toolkit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2014-06-05T22:58:31Z",
+            "owner": "phiggins42",
+            "repo": "rstwiki",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dojox application",
+          "description": "Dojox Application Framework for mobile, tablets, and desktops",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-12-15T13:43:40Z",
+            "owner": "dmachi",
+            "repo": "dojox_application",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dapi",
+          "description": "node.js Dojo API viewer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2015-03-24T22:18:00Z",
+            "owner": "dojo",
+            "repo": "dapi",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "js-doc-parse",
+          "description": "Library for parsing dojo JavaScript files and extracting inline documentation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-01-17T22:41:51Z",
+            "owner": "dojo",
+            "repo": "js-doc-parse",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xamiro",
+          "description": "IDE alike file manager in PHP and JavaScript with minimal dependencies.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Windows-dist",
+          "description": "Full automation suite for IoT and prototyping.",
+          "children": []
+        }
+      ],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dojo Typings",
+          "description": "A repository of Dojo 1 TypeScript Typings (including Dijit and DojoX)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-01T02:37:21Z",
+            "owner": "dojo",
+            "repo": "typings",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dojo-TypeScript",
+          "description": "Using Dojo 1.9 AMD-style with Microsoft TypeScript 0.9.5",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2016-02-29T06:56:38Z",
+            "owner": "schungx",
+            "repo": "Dojo-TypeScript",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dojo to Typescript Converter",
+          "description": "A typescript script which creates typescript compatible declarations from a dojo api.json file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2012-10-15T01:52:44Z",
+            "owner": "stopyoukid",
+            "repo": "DojoToTypescriptConverter",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "TypeScript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-javascript",
+          "description": "awesome JavaScript list",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-31T19:54:43Z",
+            "owner": "sorrycc",
+            "repo": "awesome-javascript",
+            "stars": 35018
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-javascript-books",
+          "description": "awesome JavaScript books",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-10-13T02:32:50Z",
+            "owner": "heatroom",
+            "repo": "awesome-javascript-books",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "awesome lists:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome",
+              "description": "awesome list",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-06-30T18:21:16Z",
+                "owner": "sindresorhus",
+                "repo": "awesome",
+                "stars": 495054
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lists",
+              "description": "awesome lists",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-03-23T20:19:22Z",
+                "owner": "jnv",
+                "repo": "lists",
+                "stars": 11413
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-awesome",
+              "description": "awesome list",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-07-31T23:19:05Z",
+                "owner": "emijrp",
+                "repo": "awesome-awesome",
+                "stars": 3194
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-awesome",
+              "description": "awesome lists",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2023-11-13T08:33:34Z",
+                "owner": "erichs",
+                "repo": "awesome-awesome",
+                "stars": 293
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-all",
+              "description": "awesome lists",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2024-10-16T11:44:37Z",
+                "owner": "bradoyler",
+                "repo": "awesome-all",
+                "stars": 235
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Other Awesome Lists"
+    },
+    {
+      "description": "You are most welcome to contribute to this awesome Dojo Toolkit list as well. Big thanks to all contributors who have helped to build this list.\n\nTo the extent possible under law, Peter Kokot has waived all copyright and related or neighboring rights to this work.\nBack to top",
+      "items": [],
+      "title": "Contributing and License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:11:54.154Z",
+    "original_repository": "petk/awesome-dojo",
+    "original_repository_sha": "9527cc7586561f0d5744062902620757dd7daccf",
+    "enhanced_repository": "enhansome/enhansome-dojo",
+    "enhanced_repository_description": null,
+    "title": "Awesome Dojo with stars"
+  }
+}
