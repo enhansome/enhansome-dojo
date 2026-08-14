@@ -183,12 +183,12 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Other Awesome Lists
 
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,018 | 🐛 28 | 📅 2026-07-31 - awesome JavaScript list
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,020 | 🐛 28 | 📅 2026-07-31 - awesome JavaScript list
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) ⭐ 130 | 🐛 1 | 📅 2018-10-13 - awesome JavaScript books
 * awesome lists:
-  * [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,119 | 🐛 100 | 📅 2026-06-30 - awesome list
-  * [lists](https://github.com/jnv/lists) ⭐ 11,413 | 🐛 20 | 📅 2026-03-23 - awesome lists
-  * [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,194 | 🐛 25 | 📅 2024-07-31 - awesome list
+  * [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,497 | 🐛 100 | 📅 2026-06-30 - awesome list
+  * [lists](https://github.com/jnv/lists) ⭐ 11,415 | 🐛 19 | 📅 2026-03-23 - awesome lists
+  * [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,195 | 🐛 25 | 📅 2024-07-31 - awesome list
   * [awesome-awesome](https://github.com/erichs/awesome-awesome) ⭐ 293 | 🐛 3 | 📅 2023-11-13 - awesome lists
   * [awesome-all](https://github.com/bradoyler/awesome-all) ⭐ 235 | 🐛 1 | 🌐 HTML | 📅 2024-10-16 - awesome lists
   * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - awesome lists
@@ -207,4 +207,4 @@ To the extent possible under law, [Peter Kokot](https://github.com/petk) has wai
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
