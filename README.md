@@ -131,7 +131,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Applications
 
-* [todomvc](https://github.com/tastejs/todomvc) ⭐ 28,952 | 🐛 71 | 🌐 JavaScript | 📅 2026-06-06 - Helping you select an MV\* framework - todo app examples
+* [todomvc](https://github.com/tastejs/todomvc) ⭐ 28,953 | 🐛 71 | 🌐 JavaScript | 📅 2026-06-06 - Helping you select an MV\* framework - todo app examples
 * [Dojo2 Example](https://github.com/dojo/examples) ⭐ 76 | 🐛 4 | 🌐 TypeScript | 📅 2023-09-26 - Dojo 2 Examples
 * [AuShada](https://github.com/dreaswar/AuShadha) ⭐ 75 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2018-08-17 - Django and Dojo application for Electronic Medical Records (EMR) and Public Health Management
 * [Dojo Demo](https://github.com/rmurphey/dojo-demo) ⭐ 54 | 🐛 2 | 🌐 JavaScript | 📅 2011-07-13 - Dojo demo
@@ -186,9 +186,9 @@ Inspired by the `awesome-*` trend on GitHub.
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,020 | 🐛 28 | 📅 2026-07-31 - awesome JavaScript list
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) ⭐ 130 | 🐛 1 | 📅 2018-10-13 - awesome JavaScript books
 * awesome lists:
-  * [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,497 | 🐛 100 | 📅 2026-06-30 - awesome list
-  * [lists](https://github.com/jnv/lists) ⭐ 11,415 | 🐛 19 | 📅 2026-03-23 - awesome lists
-  * [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,195 | 🐛 25 | 📅 2024-07-31 - awesome list
+  * [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,866 | 🐛 100 | 📅 2026-06-30 - awesome list
+  * [lists](https://github.com/jnv/lists) ⭐ 11,419 | 🐛 19 | 📅 2026-03-23 - awesome lists
+  * [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,197 | 🐛 25 | 📅 2024-07-31 - awesome list
   * [awesome-awesome](https://github.com/erichs/awesome-awesome) ⭐ 293 | 🐛 3 | 📅 2023-11-13 - awesome lists
   * [awesome-all](https://github.com/bradoyler/awesome-all) ⭐ 235 | 🐛 1 | 🌐 HTML | 📅 2024-10-16 - awesome lists
   * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - awesome lists
@@ -207,4 +207,4 @@ To the extent possible under law, [Peter Kokot](https://github.com/petk) has wai
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
