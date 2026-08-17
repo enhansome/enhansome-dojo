@@ -343,7 +343,7 @@
             "last_commit": "2018-07-30T12:21:49Z",
             "owner": "dojo",
             "repo": "core",
-            "stars": 209
+            "stars": 208
           }
         },
         {
@@ -874,7 +874,7 @@
             "last_commit": "2026-07-31T19:54:43Z",
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35019
+            "stars": 35018
           }
         },
         {
@@ -907,7 +907,7 @@
                 "last_commit": "2026-06-30T18:21:16Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 496223
+                "stars": 496686
               }
             },
             {
@@ -921,7 +921,7 @@
                 "last_commit": "2026-03-23T20:19:22Z",
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11419
+                "stars": 11421
               }
             },
             {
@@ -978,7 +978,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T06:02:48.517Z",
+    "last_updated": "2026-08-17T06:20:43.599Z",
     "original_repository": "petk/awesome-dojo",
     "original_repository_sha": "9527cc7586561f0d5744062902620757dd7daccf",
     "enhanced_repository": "enhansome/enhansome-dojo",
