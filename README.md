@@ -183,10 +183,10 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Other Awesome Lists
 
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,014 | 🐛 29 | 📅 2026-08-17 - awesome JavaScript list
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,015 | 🐛 29 | 📅 2026-08-17 - awesome JavaScript list
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) ⭐ 130 | 🐛 1 | 📅 2018-10-13 - awesome JavaScript books
 * awesome lists:
-  * [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,521 | 🐛 102 | 📅 2026-08-18 - awesome list
+  * [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,658 | 🐛 102 | 📅 2026-08-18 - awesome list
   * [lists](https://github.com/jnv/lists) ⭐ 11,422 | 🐛 21 | 📅 2026-03-23 - awesome lists
   * [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,199 | 🐛 25 | 📅 2024-07-31 - awesome list
   * [awesome-awesome](https://github.com/erichs/awesome-awesome) ⭐ 293 | 🐛 3 | 📅 2023-11-13 - awesome lists

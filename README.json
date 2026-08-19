@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": "Back to top",
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36094309,
             "language": null,
             "last_commit": "2023-09-27T16:36:32Z",
             "owner": "dojo",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36094309,
             "language": null,
             "last_commit": "2023-09-27T16:36:32Z",
             "owner": "dojo",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2814458,
             "language": "JavaScript",
             "last_commit": "2023-09-26T15:56:40Z",
             "owner": "dojo",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31992185,
             "language": "JavaScript",
             "last_commit": "2024-12-08T13:57:09Z",
             "owner": "dojo",
@@ -63,7 +67,7 @@
       "title": "DojoToolkit.org resources and documentation"
     },
     {
-      "description": "",
+      "description": "Back to top",
       "items": [
         {
           "node_type": "item",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16739236,
             "language": null,
             "last_commit": "2014-03-14T05:02:38Z",
             "owner": "DavidSpriggs",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10682387,
             "language": "HTML",
             "last_commit": "2018-02-24T18:29:16Z",
             "owner": "cepa",
@@ -97,7 +103,7 @@
       "title": "Tutorials"
     },
     {
-      "description": "",
+      "description": "Back to top",
       "items": [
         {
           "node_type": "item",
@@ -106,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1404829,
             "language": "JavaScript",
             "last_commit": "2015-10-01T22:41:49Z",
             "owner": "csnover",
@@ -120,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5620751,
             "language": "CSS",
             "last_commit": "2014-10-22T14:46:58Z",
             "owner": "atoha",
@@ -134,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7600205,
             "language": "JavaScript",
             "last_commit": "2014-12-21T17:48:56Z",
             "owner": "kitsonk",
@@ -148,24 +157,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27944234,
             "language": "JavaScript",
             "last_commit": "2016-08-17T13:21:31Z",
             "owner": "gpedro",
             "repo": "dojo.js",
             "stars": 15
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Dojo Twitter bootstrap",
-          "description": "An implementation of the Twitter Bootstrap framework using Dojo",
-          "children": []
         }
       ],
       "title": "Bootstraps and boilerplates"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -174,6 +178,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11800427,
             "language": "JavaScript",
             "last_commit": "2021-09-08T17:24:56Z",
             "owner": "dojo",
@@ -188,6 +193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19956896,
             "language": "TypeScript",
             "last_commit": "2023-03-04T02:25:56Z",
             "owner": "theintern",
@@ -202,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15434799,
             "language": "JavaScript",
             "last_commit": "2026-08-06T08:06:14Z",
             "owner": "ibm-js",
@@ -216,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10597439,
             "language": "JavaScript",
             "last_commit": "2026-08-05T03:33:26Z",
             "owner": "ibm-js",
@@ -230,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13668413,
             "language": "JavaScript",
             "last_commit": "2014-08-22T15:18:15Z",
             "owner": "bryanforbes",
@@ -244,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4524161,
             "language": "JavaScript",
             "last_commit": "2014-04-18T06:18:12Z",
             "owner": "adrobisch",
@@ -258,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6665518,
             "language": "JavaScript",
             "last_commit": "2018-07-30T17:35:53Z",
             "owner": "phated",
@@ -272,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 5653185,
             "language": "JavaScript",
             "last_commit": "2015-02-21T22:16:50Z",
             "owner": "kfranqueiro",
@@ -286,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 45679268,
             "language": "TypeScript",
             "last_commit": "2019-12-13T14:29:48Z",
             "owner": "dojo",
@@ -300,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11590032,
             "language": "JavaScript",
             "last_commit": "2013-11-26T12:44:03Z",
             "owner": "garcimouche",
@@ -308,189 +322,182 @@
           }
         },
         {
-          "node_type": "group",
-          "title": "Grids",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "xgrid",
-              "description": "dgrid extensions.",
-              "children": []
+              "title": "Dojo core",
+              "description": "Dojo 2 package containing TypeScript and JavaScript core utilities",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 31790386,
+                "language": "TypeScript",
+                "last_commit": "2018-07-30T12:21:49Z",
+                "owner": "dojo",
+                "repo": "core",
+                "stars": 208
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dojo widgets",
+              "description": "A core UI component library for Dojo 2",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79911519,
+                "language": "TypeScript",
+                "last_commit": "2022-12-11T17:40:19Z",
+                "owner": "dojo",
+                "repo": "widgets",
+                "stars": 93
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dojo Command Line Tooling",
+              "description": "Command Line Tooling for Dojo2 Applications",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58644895,
+                "language": "TypeScript",
+                "last_commit": "2023-04-17T05:35:09Z",
+                "owner": "dojo",
+                "repo": "cli",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dojo loader",
+              "description": "AMD loader for Dojo2.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36092584,
+                "language": "TypeScript",
+                "last_commit": "2023-01-11T21:48:00Z",
+                "owner": "dojo",
+                "repo": "loader",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dojo routing",
+              "description": "Dojo2 Routing",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 35429260,
+                "language": "TypeScript",
+                "last_commit": "2018-07-30T12:24:40Z",
+                "owner": "dojo",
+                "repo": "routing",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dojo shim",
+              "description": "Modules that provide modular fills of ES6+ functionality",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 61533876,
+                "language": "TypeScript",
+                "last_commit": "2018-07-30T12:25:36Z",
+                "owner": "dojo",
+                "repo": "shim",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DOM Utilities",
+              "description": "Dojo2 DOM Utilities",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 35428415,
+                "language": "TypeScript",
+                "last_commit": "2017-10-18T22:26:46Z",
+                "owner": "dojo",
+                "repo": "dom",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dojo compose",
+              "description": "Dojo2 Composition Library",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 43679920,
+                "language": "TypeScript",
+                "last_commit": "2017-10-31T16:43:49Z",
+                "owner": "dojo",
+                "repo": "compose",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dojo2 App",
+              "description": "An application framework for Dojo 2 (example)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 59028028,
+                "language": "TypeScript",
+                "last_commit": "2017-10-31T16:59:07Z",
+                "owner": "dojo",
+                "repo": "app",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dojo has",
+              "description": "A feature detection library",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 62228964,
+                "language": "TypeScript",
+                "last_commit": "2018-07-30T12:23:06Z",
+                "owner": "dojo",
+                "repo": "has",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dojo parse",
+              "description": "A package for declaratively instantiating widgets.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 42916549,
+                "language": "TypeScript",
+                "last_commit": "2017-04-11T09:36:12Z",
+                "owner": "dojo",
+                "repo": "parser",
+                "stars": 3
+              }
             }
-          ]
-        },
-        {
-          "node_type": "item",
-          "title": "xaction",
-          "description": "Component providing UI and logic for user actions.",
-          "children": []
+          ],
+          "description": "Back to top",
+          "node_type": "group",
+          "title": "Dojo 2"
         }
       ],
       "title": "Packages, libraries and scripts"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Dojo core",
-          "description": "Dojo 2 package containing TypeScript and JavaScript core utilities",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2018-07-30T12:21:49Z",
-            "owner": "dojo",
-            "repo": "core",
-            "stars": 208
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dojo widgets",
-          "description": "A core UI component library for Dojo 2",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-12-11T17:40:19Z",
-            "owner": "dojo",
-            "repo": "widgets",
-            "stars": 93
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dojo Command Line Tooling",
-          "description": "Command Line Tooling for Dojo2 Applications",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-04-17T05:35:09Z",
-            "owner": "dojo",
-            "repo": "cli",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dojo loader",
-          "description": "AMD loader for Dojo2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-11T21:48:00Z",
-            "owner": "dojo",
-            "repo": "loader",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dojo routing",
-          "description": "Dojo2 Routing",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2018-07-30T12:24:40Z",
-            "owner": "dojo",
-            "repo": "routing",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dojo shim",
-          "description": "Modules that provide modular fills of ES6+ functionality",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2018-07-30T12:25:36Z",
-            "owner": "dojo",
-            "repo": "shim",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DOM Utilities",
-          "description": "Dojo2 DOM Utilities",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2017-10-18T22:26:46Z",
-            "owner": "dojo",
-            "repo": "dom",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dojo compose",
-          "description": "Dojo2 Composition Library",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2017-10-31T16:43:49Z",
-            "owner": "dojo",
-            "repo": "compose",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dojo2 App",
-          "description": "An application framework for Dojo 2 (example)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2017-10-31T16:59:07Z",
-            "owner": "dojo",
-            "repo": "app",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dojo has",
-          "description": "A feature detection library",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2018-07-30T12:23:06Z",
-            "owner": "dojo",
-            "repo": "has",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dojo parse",
-          "description": "A package for declaratively instantiating widgets.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2017-04-11T09:36:12Z",
-            "owner": "dojo",
-            "repo": "parser",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Dojo 2"
-    },
-    {
-      "description": "",
+      "description": "Back to top",
       "items": [
         {
           "node_type": "item",
@@ -499,6 +506,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2719951,
             "language": "Python",
             "last_commit": "2015-11-22T10:35:34Z",
             "owner": "klipstein",
@@ -513,6 +521,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12941114,
             "language": "Java",
             "last_commit": "2022-12-04T17:53:46Z",
             "owner": "cometd",
@@ -532,6 +541,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 2685329,
                 "language": "JavaScript",
                 "last_commit": "2014-08-25T21:41:33Z",
                 "owner": "Reactive-Extensions",
@@ -546,6 +556,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 2888323,
                 "language": "JavaScript",
                 "last_commit": "2012-05-24T17:57:19Z",
                 "owner": "lstratman",
@@ -567,6 +578,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 2553112,
                 "language": "JavaScript",
                 "last_commit": "2013-03-01T07:41:20Z",
                 "owner": "supnate",
@@ -581,6 +593,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1384561,
                 "language": "JavaScript",
                 "last_commit": "2015-04-06T16:11:18Z",
                 "owner": "agebrock",
@@ -602,18 +615,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 12049311,
                 "language": "PHP",
                 "last_commit": "2013-09-04T00:32:04Z",
                 "owner": "zoopcommerce",
                 "repo": "pixie",
                 "stars": 3
               }
-            },
-            {
-              "node_type": "item",
-              "title": "Dojo & Zend PHP framework",
-              "description": "integrating Dojo Toolkit with Zend Framework through DojoModule",
-              "children": []
             }
           ]
         }
@@ -621,7 +629,7 @@
       "title": "Serverside integrations"
     },
     {
-      "description": "",
+      "description": "Back to top",
       "items": [
         {
           "node_type": "item",
@@ -630,6 +638,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 29974943,
             "language": "JavaScript",
             "last_commit": "2017-04-17T15:28:50Z",
             "owner": "naglalakk",
@@ -644,6 +653,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31323411,
             "language": "JavaScript",
             "last_commit": "2015-04-15T18:12:26Z",
             "owner": "glamb",
@@ -655,7 +665,7 @@
       "title": "Testing"
     },
     {
-      "description": "",
+      "description": "Back to top",
       "items": [
         {
           "node_type": "item",
@@ -664,6 +674,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1844251,
             "language": "JavaScript",
             "last_commit": "2026-06-06T23:35:53Z",
             "owner": "tastejs",
@@ -678,6 +689,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62800980,
             "language": "TypeScript",
             "last_commit": "2023-09-26T15:31:12Z",
             "owner": "dojo",
@@ -692,6 +704,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5544199,
             "language": "Jupyter Notebook",
             "last_commit": "2018-08-17T04:51:14Z",
             "owner": "dreaswar",
@@ -706,6 +719,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1563603,
             "language": "JavaScript",
             "last_commit": "2011-07-13T05:27:56Z",
             "owner": "rmurphey",
@@ -720,6 +734,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6649321,
             "language": "JavaScript",
             "last_commit": "2014-02-23T11:47:11Z",
             "owner": "sirprize",
@@ -734,6 +749,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19957276,
             "language": "TypeScript",
             "last_commit": "2023-11-01T01:25:58Z",
             "owner": "theintern",
@@ -748,6 +764,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1326209,
             "language": "CSS",
             "last_commit": "2014-06-05T22:58:31Z",
             "owner": "phiggins42",
@@ -762,6 +779,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1612650,
             "language": "JavaScript",
             "last_commit": "2014-12-15T13:43:40Z",
             "owner": "dmachi",
@@ -776,6 +794,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8827147,
             "language": "CSS",
             "last_commit": "2015-03-24T22:18:00Z",
             "owner": "dojo",
@@ -790,30 +809,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4501977,
             "language": "JavaScript",
             "last_commit": "2015-01-17T22:41:51Z",
             "owner": "dojo",
             "repo": "js-doc-parse",
             "stars": 11
           }
-        },
-        {
-          "node_type": "item",
-          "title": "xamiro",
-          "description": "IDE alike file manager in PHP and JavaScript with minimal dependencies.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Windows-dist",
-          "description": "Full automation suite for IoT and prototyping.",
-          "children": []
         }
       ],
       "title": "Applications"
     },
     {
-      "description": "",
+      "description": "Back to top",
       "items": [
         {
           "node_type": "item",
@@ -822,6 +830,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49503609,
             "language": "TypeScript",
             "last_commit": "2023-03-01T02:37:21Z",
             "owner": "dojo",
@@ -836,6 +845,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 10236128,
             "language": null,
             "last_commit": "2016-02-29T06:56:38Z",
             "owner": "schungx",
@@ -850,6 +860,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6128763,
             "language": "JavaScript",
             "last_commit": "2012-10-15T01:52:44Z",
             "owner": "stopyoukid",
@@ -861,7 +872,7 @@
       "title": "TypeScript"
     },
     {
-      "description": "",
+      "description": "Back to top",
       "items": [
         {
           "node_type": "item",
@@ -870,11 +881,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21393871,
             "language": null,
             "last_commit": "2026-08-17T07:30:04Z",
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35014
+            "stars": 35015
           }
         },
         {
@@ -884,6 +896,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22453515,
             "language": null,
             "last_commit": "2018-10-13T02:32:50Z",
             "owner": "heatroom",
@@ -903,11 +916,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 21737465,
                 "language": null,
                 "last_commit": "2026-08-18T13:28:50Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 497521
+                "stars": 497658
               }
             },
             {
@@ -917,6 +931,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 14408715,
                 "language": null,
                 "last_commit": "2026-03-23T20:19:22Z",
                 "owner": "jnv",
@@ -931,6 +946,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 21388604,
                 "language": null,
                 "last_commit": "2024-07-31T23:19:05Z",
                 "owner": "emijrp",
@@ -945,6 +961,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 21636365,
                 "language": null,
                 "last_commit": "2023-11-13T08:33:34Z",
                 "owner": "erichs",
@@ -959,6 +976,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 21757420,
                 "language": "HTML",
                 "last_commit": "2024-10-16T11:44:37Z",
                 "owner": "bradoyler",
@@ -970,16 +988,12 @@
         }
       ],
       "title": "Other Awesome Lists"
-    },
-    {
-      "description": "You are most welcome to contribute to this awesome Dojo Toolkit list as well. Big thanks to all contributors who have helped to build this list.\n\nTo the extent possible under law, Peter Kokot has waived all copyright and related or neighboring rights to this work.\nBack to top",
-      "items": [],
-      "title": "Contributing and License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T06:04:13.364Z",
+    "last_updated": "2026-08-19T12:27:28.900Z",
     "original_repository": "petk/awesome-dojo",
+    "original_repository_id": 25577168,
     "original_repository_sha": "9527cc7586561f0d5744062902620757dd7daccf",
     "enhanced_repository": "enhansome/enhansome-dojo",
     "enhanced_repository_description": null,
