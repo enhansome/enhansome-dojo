@@ -883,10 +883,10 @@
             "archived": false,
             "id": 21393871,
             "language": null,
-            "last_commit": "2026-08-17T07:30:04Z",
+            "last_commit": "2026-08-19T17:00:42Z",
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35015
+            "stars": 35017
           }
         },
         {
@@ -921,7 +921,7 @@
                 "last_commit": "2026-08-18T13:28:50Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 497658
+                "stars": 497903
               }
             },
             {
@@ -991,7 +991,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:27:28.900Z",
+    "last_updated": "2026-08-20T06:03:43.277Z",
     "original_repository": "petk/awesome-dojo",
     "original_repository_id": 25577168,
     "original_repository_sha": "9527cc7586561f0d5744062902620757dd7daccf",
