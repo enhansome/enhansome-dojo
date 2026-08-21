@@ -350,7 +350,7 @@
                 "last_commit": "2022-12-11T17:40:19Z",
                 "owner": "dojo",
                 "repo": "widgets",
-                "stars": 93
+                "stars": 92
               }
             },
             {
@@ -679,7 +679,7 @@
             "last_commit": "2026-06-06T23:35:53Z",
             "owner": "tastejs",
             "repo": "todomvc",
-            "stars": 28950
+            "stars": 28948
           }
         },
         {
@@ -921,7 +921,7 @@
                 "last_commit": "2026-08-18T13:28:50Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 497903
+                "stars": 498359
               }
             },
             {
@@ -936,7 +936,7 @@
                 "last_commit": "2026-03-23T20:19:22Z",
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11422
+                "stars": 11427
               }
             },
             {
@@ -951,7 +951,7 @@
                 "last_commit": "2024-07-31T23:19:05Z",
                 "owner": "emijrp",
                 "repo": "awesome-awesome",
-                "stars": 3199
+                "stars": 3201
               }
             },
             {
@@ -991,7 +991,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T06:03:43.277Z",
+    "last_updated": "2026-08-21T06:05:36.501Z",
     "original_repository": "petk/awesome-dojo",
     "original_repository_id": 25577168,
     "original_repository_sha": "9527cc7586561f0d5744062902620757dd7daccf",

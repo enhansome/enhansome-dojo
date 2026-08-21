@@ -80,7 +80,7 @@ Inspired by the `awesome-*` trend on GitHub.
 #### Dojo 2
 
 * [Dojo core](https://github.com/dojo/core) ⚠️ Archived - Dojo 2 package containing TypeScript and JavaScript core utilities
-* [Dojo widgets](https://github.com/dojo/widgets) ⭐ 93 | 🐛 50 | 🌐 TypeScript | 📅 2022-12-11 - A core UI component library for Dojo 2
+* [Dojo widgets](https://github.com/dojo/widgets) ⭐ 92 | 🐛 50 | 🌐 TypeScript | 📅 2022-12-11 - A core UI component library for Dojo 2
 * [Dojo Command Line Tooling](https://github.com/dojo/cli) ⭐ 27 | 🐛 17 | 🌐 TypeScript | 📅 2023-04-17   - Command Line Tooling for Dojo2 Applications
 * [Dojo loader](https://github.com/dojo/loader) ⭐ 16 | 🐛 16 | 🌐 TypeScript | 📅 2023-01-11 - AMD loader for Dojo2.
 * [Dojo routing](https://github.com/dojo/routing) ⚠️ Archived - Dojo2 Routing
@@ -131,7 +131,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Applications
 
-* [todomvc](https://github.com/tastejs/todomvc) ⭐ 28,950 | 🐛 72 | 🌐 JavaScript | 📅 2026-06-06 - Helping you select an MV\* framework - todo app examples
+* [todomvc](https://github.com/tastejs/todomvc) ⭐ 28,948 | 🐛 72 | 🌐 JavaScript | 📅 2026-06-06 - Helping you select an MV\* framework - todo app examples
 * [Dojo2 Example](https://github.com/dojo/examples) ⭐ 76 | 🐛 4 | 🌐 TypeScript | 📅 2023-09-26 - Dojo 2 Examples
 * [AuShada](https://github.com/dreaswar/AuShadha) ⭐ 75 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2018-08-17 - Django and Dojo application for Electronic Medical Records (EMR) and Public Health Management
 * [Dojo Demo](https://github.com/rmurphey/dojo-demo) ⭐ 54 | 🐛 2 | 🌐 JavaScript | 📅 2011-07-13 - Dojo demo
@@ -186,9 +186,9 @@ Inspired by the `awesome-*` trend on GitHub.
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,017 | 🐛 29 | 📅 2026-08-19 - awesome JavaScript list
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) ⭐ 130 | 🐛 1 | 📅 2018-10-13 - awesome JavaScript books
 * awesome lists:
-  * [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,903 | 🐛 104 | 📅 2026-08-18 - awesome list
-  * [lists](https://github.com/jnv/lists) ⭐ 11,422 | 🐛 21 | 📅 2026-03-23 - awesome lists
-  * [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,199 | 🐛 25 | 📅 2024-07-31 - awesome list
+  * [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,359 | 🐛 105 | 📅 2026-08-18 - awesome list
+  * [lists](https://github.com/jnv/lists) ⭐ 11,427 | 🐛 21 | 📅 2026-03-23 - awesome lists
+  * [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,201 | 🐛 25 | 📅 2024-07-31 - awesome list
   * [awesome-awesome](https://github.com/erichs/awesome-awesome) ⭐ 293 | 🐛 3 | 📅 2023-11-13 - awesome lists
   * [awesome-all](https://github.com/bradoyler/awesome-all) ⭐ 235 | 🐛 1 | 🌐 HTML | 📅 2024-10-16 - awesome lists
   * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - awesome lists
@@ -207,4 +207,4 @@ To the extent possible under law, [Peter Kokot](https://github.com/petk) has wai
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
