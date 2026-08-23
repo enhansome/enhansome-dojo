@@ -131,7 +131,7 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Applications
 
-* [todomvc](https://github.com/tastejs/todomvc) ⭐ 28,948 | 🐛 72 | 🌐 JavaScript | 📅 2026-06-06 - Helping you select an MV\* framework - todo app examples
+* [todomvc](https://github.com/tastejs/todomvc) ⭐ 28,949 | 🐛 72 | 🌐 JavaScript | 📅 2026-06-06 - Helping you select an MV\* framework - todo app examples
 * [Dojo2 Example](https://github.com/dojo/examples) ⭐ 76 | 🐛 4 | 🌐 TypeScript | 📅 2023-09-26 - Dojo 2 Examples
 * [AuShada](https://github.com/dreaswar/AuShadha) ⭐ 75 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2018-08-17 - Django and Dojo application for Electronic Medical Records (EMR) and Public Health Management
 * [Dojo Demo](https://github.com/rmurphey/dojo-demo) ⭐ 54 | 🐛 2 | 🌐 JavaScript | 📅 2011-07-13 - Dojo demo
@@ -183,14 +183,14 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Other Awesome Lists
 
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,017 | 🐛 29 | 📅 2026-08-19 - awesome JavaScript list
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,017 | 🐛 30 | 📅 2026-08-19 - awesome JavaScript list
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) ⭐ 130 | 🐛 1 | 📅 2018-10-13 - awesome JavaScript books
 * awesome lists:
-  * [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,725 | 🐛 105 | 📅 2026-08-21 - awesome list
-  * [lists](https://github.com/jnv/lists) ⭐ 11,429 | 🐛 21 | 📅 2026-03-23 - awesome lists
-  * [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,200 | 🐛 25 | 📅 2024-07-31 - awesome list
+  * [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,045 | 🐛 106 | 📅 2026-08-21 - awesome list
+  * [lists](https://github.com/jnv/lists) ⭐ 11,433 | 🐛 21 | 📅 2026-03-23 - awesome lists
+  * [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,201 | 🐛 25 | 📅 2024-07-31 - awesome list
   * [awesome-awesome](https://github.com/erichs/awesome-awesome) ⭐ 293 | 🐛 3 | 📅 2023-11-13 - awesome lists
-  * [awesome-all](https://github.com/bradoyler/awesome-all) ⭐ 235 | 🐛 1 | 🌐 HTML | 📅 2024-10-16 - awesome lists
+  * [awesome-all](https://github.com/bradoyler/awesome-all) ⭐ 236 | 🐛 1 | 🌐 HTML | 📅 2024-10-16 - awesome lists
   * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - awesome lists
 
 [Back to top](#awesome-dojo)
@@ -207,4 +207,4 @@ To the extent possible under law, [Peter Kokot](https://github.com/petk) has wai
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
