@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "Back to top",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -67,7 +67,7 @@
       "title": "DojoToolkit.org resources and documentation"
     },
     {
-      "description": "Back to top",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -103,7 +103,7 @@
       "title": "Tutorials"
     },
     {
-      "description": "Back to top",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -489,7 +489,7 @@
               }
             }
           ],
-          "description": "Back to top",
+          "description": null,
           "node_type": "group",
           "title": "Dojo 2"
         }
@@ -497,7 +497,7 @@
       "title": "Packages, libraries and scripts"
     },
     {
-      "description": "Back to top",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -629,7 +629,7 @@
       "title": "Serverside integrations"
     },
     {
-      "description": "Back to top",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -665,7 +665,7 @@
       "title": "Testing"
     },
     {
-      "description": "Back to top",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -821,7 +821,7 @@
       "title": "Applications"
     },
     {
-      "description": "Back to top",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -872,7 +872,7 @@
       "title": "TypeScript"
     },
     {
-      "description": "Back to top",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -886,7 +886,7 @@
             "last_commit": "2026-08-19T17:00:42Z",
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35019
+            "stars": 35021
           }
         },
         {
@@ -921,7 +921,7 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 499371
+                "stars": 499520
               }
             },
             {
@@ -936,7 +936,7 @@
                 "last_commit": "2026-03-23T20:19:22Z",
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11435
+                "stars": 11437
               }
             },
             {
@@ -991,7 +991,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:24:55.024Z",
+    "last_updated": "2026-08-24T14:40:47.189Z",
     "original_repository": "petk/awesome-dojo",
     "original_repository_id": 25577168,
     "original_repository_sha": "9527cc7586561f0d5744062902620757dd7daccf",
