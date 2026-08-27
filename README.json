@@ -886,7 +886,7 @@
             "last_commit": "2026-08-19T17:00:42Z",
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35022
+            "stars": 35021
           }
         },
         {
@@ -921,7 +921,7 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 500361
+                "stars": 500435
               }
             },
             {
@@ -991,7 +991,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:34:07.331Z",
+    "last_updated": "2026-08-27T16:49:34.333Z",
     "original_repository_info": {
       "archived": false,
       "id": 25577168,
