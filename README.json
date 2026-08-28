@@ -16,7 +16,8 @@
             "owner": "dojo",
             "repo": "meta",
             "stars": 227
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "dojo",
             "repo": "meta",
             "stars": 227
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "dojo",
             "repo": "docs",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "dojo",
             "repo": "dojo-website",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         }
       ],
       "title": "DojoToolkit.org resources and documentation"
@@ -82,7 +86,8 @@
             "owner": "DavidSpriggs",
             "repo": "Dojo--The-Good-Parts",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "cepa",
             "repo": "dojo-tutorial",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         }
       ],
       "title": "Tutorials"
@@ -118,7 +124,8 @@
             "owner": "csnover",
             "repo": "dojo-boilerplate",
             "stars": 363
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "atoha",
             "repo": "dbootstrap",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "kitsonk",
             "repo": "dojo-node-boilerplate",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "gpedro",
             "repo": "dojo.js",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         }
       ],
       "title": "Bootstraps and boilerplates"
@@ -184,7 +194,8 @@
             "owner": "dojo",
             "repo": "dojo1-dstore",
             "stars": 281
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -199,7 +210,8 @@
             "owner": "theintern",
             "repo": "leadfoot",
             "stars": 169
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -214,7 +226,8 @@
             "owner": "ibm-js",
             "repo": "deliteful",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -229,7 +242,8 @@
             "owner": "ibm-js",
             "repo": "delite",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -244,7 +258,8 @@
             "owner": "bryanforbes",
             "repo": "generator-dojo",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -259,7 +274,8 @@
             "owner": "adrobisch",
             "repo": "angular-dojo",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -274,7 +290,8 @@
             "owner": "phated",
             "repo": "grunt-dojo",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -289,7 +306,8 @@
             "owner": "kfranqueiro",
             "repo": "dojo-smore",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "dojo",
             "repo": "grunt-dojo2",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "garcimouche",
             "repo": "karma-dojo",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "children": [
@@ -336,7 +356,8 @@
                 "owner": "dojo",
                 "repo": "core",
                 "stars": 208
-              }
+              },
+              "first_seen": "2026-08-28T17:43:02.681Z"
             },
             {
               "node_type": "item",
@@ -351,7 +372,8 @@
                 "owner": "dojo",
                 "repo": "widgets",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T17:43:02.681Z"
             },
             {
               "node_type": "item",
@@ -366,7 +388,8 @@
                 "owner": "dojo",
                 "repo": "cli",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T17:43:02.681Z"
             },
             {
               "node_type": "item",
@@ -381,7 +404,8 @@
                 "owner": "dojo",
                 "repo": "loader",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T17:43:02.681Z"
             },
             {
               "node_type": "item",
@@ -396,7 +420,8 @@
                 "owner": "dojo",
                 "repo": "routing",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T17:43:02.681Z"
             },
             {
               "node_type": "item",
@@ -411,7 +436,8 @@
                 "owner": "dojo",
                 "repo": "shim",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T17:43:02.681Z"
             },
             {
               "node_type": "item",
@@ -426,7 +452,8 @@
                 "owner": "dojo",
                 "repo": "dom",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T17:43:02.681Z"
             },
             {
               "node_type": "item",
@@ -441,7 +468,8 @@
                 "owner": "dojo",
                 "repo": "compose",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T17:43:02.681Z"
             },
             {
               "node_type": "item",
@@ -456,7 +484,8 @@
                 "owner": "dojo",
                 "repo": "app",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T17:43:02.681Z"
             },
             {
               "node_type": "item",
@@ -471,7 +500,8 @@
                 "owner": "dojo",
                 "repo": "has",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T17:43:02.681Z"
             },
             {
               "node_type": "item",
@@ -486,7 +516,8 @@
                 "owner": "dojo",
                 "repo": "parser",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T17:43:02.681Z"
             }
           ],
           "description": null,
@@ -512,7 +543,8 @@
             "owner": "klipstein",
             "repo": "dojango",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -527,7 +559,8 @@
             "owner": "cometd",
             "repo": "dojo-maven",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "group",
@@ -547,7 +580,8 @@
                 "owner": "Reactive-Extensions",
                 "repo": "RxJS-Dojo",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T17:43:02.681Z"
             },
             {
               "node_type": "item",
@@ -562,7 +596,8 @@
                 "owner": "lstratman",
                 "repo": "Dojo.NET",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T17:43:02.681Z"
             }
           ]
         },
@@ -584,7 +619,8 @@
                 "owner": "supnate",
                 "repo": "dojos",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T17:43:02.681Z"
             },
             {
               "node_type": "item",
@@ -599,7 +635,8 @@
                 "owner": "agebrock",
                 "repo": "dojo-node",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T17:43:02.681Z"
             }
           ]
         },
@@ -621,7 +658,8 @@
                 "owner": "zoopcommerce",
                 "repo": "pixie",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T17:43:02.681Z"
             }
           ]
         }
@@ -644,7 +682,8 @@
             "owner": "naglalakk",
             "repo": "generator-intern",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -659,7 +698,8 @@
             "owner": "glamb",
             "repo": "generator-internjs-pageobjects",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         }
       ],
       "title": "Testing"
@@ -680,7 +720,8 @@
             "owner": "tastejs",
             "repo": "todomvc",
             "stars": 28949
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -695,7 +736,8 @@
             "owner": "dojo",
             "repo": "examples",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -710,7 +752,8 @@
             "owner": "dreaswar",
             "repo": "AuShadha",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -725,7 +768,8 @@
             "owner": "rmurphey",
             "repo": "dojo-demo",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -740,7 +784,8 @@
             "owner": "sirprize",
             "repo": "dojorama",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -755,7 +800,8 @@
             "owner": "theintern",
             "repo": "digdug",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -770,7 +816,8 @@
             "owner": "phiggins42",
             "repo": "rstwiki",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -785,7 +832,8 @@
             "owner": "dmachi",
             "repo": "dojox_application",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -800,7 +848,8 @@
             "owner": "dojo",
             "repo": "dapi",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -815,7 +864,8 @@
             "owner": "dojo",
             "repo": "js-doc-parse",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         }
       ],
       "title": "Applications"
@@ -836,7 +886,8 @@
             "owner": "dojo",
             "repo": "typings",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -851,7 +902,8 @@
             "owner": "schungx",
             "repo": "Dojo-TypeScript",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -866,7 +918,8 @@
             "owner": "stopyoukid",
             "repo": "DojoToTypescriptConverter",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         }
       ],
       "title": "TypeScript"
@@ -886,8 +939,9 @@
             "last_commit": "2026-08-19T17:00:42Z",
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35021
-          }
+            "stars": 35022
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "item",
@@ -902,7 +956,8 @@
             "owner": "heatroom",
             "repo": "awesome-javascript-books",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-28T17:43:02.681Z"
         },
         {
           "node_type": "group",
@@ -921,8 +976,9 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 500435
-              }
+                "stars": 500793
+              },
+              "first_seen": "2026-08-28T17:43:02.681Z"
             },
             {
               "node_type": "item",
@@ -936,8 +992,9 @@
                 "last_commit": "2026-03-23T20:19:22Z",
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11439
-              }
+                "stars": 11441
+              },
+              "first_seen": "2026-08-28T17:43:02.681Z"
             },
             {
               "node_type": "item",
@@ -952,7 +1009,8 @@
                 "owner": "emijrp",
                 "repo": "awesome-awesome",
                 "stars": 3203
-              }
+              },
+              "first_seen": "2026-08-28T17:43:02.681Z"
             },
             {
               "node_type": "item",
@@ -967,7 +1025,8 @@
                 "owner": "erichs",
                 "repo": "awesome-awesome",
                 "stars": 294
-              }
+              },
+              "first_seen": "2026-08-28T17:43:02.681Z"
             },
             {
               "node_type": "item",
@@ -982,7 +1041,8 @@
                 "owner": "bradoyler",
                 "repo": "awesome-all",
                 "stars": 236
-              }
+              },
+              "first_seen": "2026-08-28T17:43:02.681Z"
             }
           ]
         }
@@ -991,7 +1051,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:49:34.333Z",
+    "last_updated": "2026-08-28T17:43:02.681Z",
     "original_repository_info": {
       "archived": false,
       "id": 25577168,
