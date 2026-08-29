@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":rocket: Dojo - meta information for the project.",
+            "homepage": null,
             "id": 36094309,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2023-09-27T16:36:32Z",
+            "open_issues": 24,
             "owner": "dojo",
             "repo": "meta",
-            "stars": 227
+            "stars": 227,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":rocket: Dojo - meta information for the project.",
+            "homepage": null,
             "id": 36094309,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2023-09-27T16:36:32Z",
+            "open_issues": 24,
             "owner": "dojo",
             "repo": "meta",
-            "stars": 227
+            "stars": 227,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dojo 1 - reference Documentation.",
+            "homepage": "http://dojotoolkit.org/",
             "id": 2814458,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-09-26T15:56:40Z",
+            "open_issues": 4,
             "owner": "dojo",
             "repo": "docs",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dojo 1 - website for Dojo Toolkit 1.x to 2.x transition.",
+            "homepage": null,
             "id": 31992185,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-08T13:57:09Z",
+            "open_issues": 14,
             "owner": "dojo",
             "repo": "dojo-website",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         }
@@ -80,12 +100,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The awesome parts of the Dojo Toolkit.",
+            "homepage": null,
             "id": 16739236,
             "language": null,
+            "license": "MIT",
             "last_commit": "2014-03-14T05:02:38Z",
+            "open_issues": 0,
             "owner": "DavidSpriggs",
             "repo": "Dojo--The-Good-Parts",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -96,12 +121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dojo Toolkit 1.9 Tutorial",
+            "homepage": "http://dojotutorial.org/",
             "id": 10682387,
             "language": "HTML",
+            "license": null,
             "last_commit": "2018-02-24T18:29:16Z",
+            "open_issues": 1,
             "owner": "cepa",
             "repo": "dojo-tutorial",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         }
@@ -118,12 +148,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A starting point for developing with Dojo",
+            "homepage": null,
             "id": 1404829,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-10-01T22:41:49Z",
+            "open_issues": 2,
             "owner": "csnover",
             "repo": "dojo-boilerplate",
-            "stars": 363
+            "stars": 363,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -134,12 +169,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bootstrap theme for Dojo",
+            "homepage": "http://thesociable.github.com/dbootstrap/",
             "id": 5620751,
             "language": "CSS",
+            "license": "NOASSERTION",
             "last_commit": "2014-10-22T14:46:58Z",
+            "open_issues": 25,
             "owner": "atoha",
             "repo": "dbootstrap",
-            "stars": 141
+            "stars": 141,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -150,12 +190,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A quickstart \"template\" for using the Dojo Toolkit on NodeJS",
+            "homepage": null,
             "id": 7600205,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2014-12-21T17:48:56Z",
+            "open_issues": 2,
             "owner": "kitsonk",
             "repo": "dojo-node-boilerplate",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -166,12 +211,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Coding Dojo Boilerplate for JavaScript",
+            "homepage": null,
             "id": 27944234,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-08-17T13:21:31Z",
+            "open_issues": 1,
             "owner": "gpedro",
             "repo": "dojo.js",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         }
@@ -188,12 +238,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A data infrastructure framework, providing the tools for modelling and interacting with data collections and objects.",
+            "homepage": "http://dstorejs.io/",
             "id": 11800427,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2021-09-08T17:24:56Z",
+            "open_issues": 53,
             "owner": "dojo",
             "repo": "dojo1-dstore",
-            "stars": 281
+            "stars": 281,
+            "topics": [
+              "dojo",
+              "javascript",
+              "rql"
+            ]
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -204,12 +263,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaScript client library that brings cross-platform consistency to the Selenium WebDriver API.",
+            "homepage": null,
             "id": 19956896,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-03-04T02:25:56Z",
+            "open_issues": 14,
             "owner": "theintern",
             "repo": "leadfoot",
-            "stars": 169
+            "stars": 169,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -220,12 +284,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multichannel (desktop/mobile) UI Custom Elements Library",
+            "homepage": "http://ibm-js.github.io/deliteful",
             "id": 15434799,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-06T08:06:14Z",
+            "open_issues": 51,
             "owner": "ibm-js",
             "repo": "deliteful",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -236,12 +305,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTML Custom Element / Widget infrastructure",
+            "homepage": "http://ibm-js.github.io/delite/",
             "id": 10597439,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-05T03:33:26Z",
+            "open_issues": 13,
             "owner": "ibm-js",
             "repo": "delite",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -252,12 +326,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A yeoman generator for Dojo projects",
+            "homepage": null,
             "id": 13668413,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2014-08-22T15:18:15Z",
+            "open_issues": 5,
             "owner": "bryanforbes",
             "repo": "generator-dojo",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -268,12 +347,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AngularJS directives for dojo widgets",
+            "homepage": null,
             "id": 4524161,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2014-04-18T06:18:12Z",
+            "open_issues": 1,
             "owner": "adrobisch",
             "repo": "angular-dojo",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -284,12 +368,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build Dojo inside a Grunt task",
+            "homepage": null,
             "id": 6665518,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-07-30T17:35:53Z",
+            "open_issues": 0,
             "owner": "phated",
             "repo": "grunt-dojo",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -300,12 +389,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Dojo stores are great! Here, have s'more.",
+            "homepage": null,
             "id": 5653185,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2015-02-21T22:16:50Z",
+            "open_issues": 0,
             "owner": "kfranqueiro",
             "repo": "dojo-smore",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -316,12 +410,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Dojo 2  - Grunt tasks and configuration (internal use)",
+            "homepage": null,
             "id": 45679268,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2019-12-13T14:29:48Z",
+            "open_issues": 5,
             "owner": "dojo",
             "repo": "grunt-dojo2",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -332,12 +431,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Karma plugin. Adapter for Dojo Toolkit.",
+            "homepage": null,
             "id": 11590032,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2013-11-26T12:44:03Z",
+            "open_issues": 1,
             "owner": "garcimouche",
             "repo": "karma-dojo",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -350,12 +454,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":rocket: Dojo 2 - language helpers and utilities.",
+                "homepage": "http://dojo.io",
                 "id": 31790386,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2018-07-30T12:21:49Z",
+                "open_issues": 13,
                 "owner": "dojo",
                 "repo": "core",
-                "stars": 208
+                "stars": 208,
+                "topics": [
+                  "dojo2",
+                  "language-utilities",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:43:02.681Z"
             },
@@ -366,12 +479,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":rocket: Dojo - UI widgets.",
+                "homepage": "https://widgets.dojo.io",
                 "id": 79911519,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-11T17:40:19Z",
+                "open_issues": 50,
                 "owner": "dojo",
                 "repo": "widgets",
-                "stars": 92
+                "stars": 92,
+                "topics": [
+                  "custom-elements",
+                  "dojo",
+                  "theme",
+                  "widget",
+                  "widgets"
+                ]
               },
               "first_seen": "2026-08-28T17:43:02.681Z"
             },
@@ -382,12 +506,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":rocket: Dojo - command line tooling.",
+                "homepage": "http://dojo.io",
                 "id": 58644895,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-17T05:35:09Z",
+                "open_issues": 17,
                 "owner": "dojo",
                 "repo": "cli",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "cli",
+                  "dojo"
+                ]
               },
               "first_seen": "2026-08-28T17:43:02.681Z"
             },
@@ -398,12 +530,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":rocket: Dojo 2 - AMD loader.",
+                "homepage": "http://dojo.io",
                 "id": 36092584,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-01-11T21:48:00Z",
+                "open_issues": 16,
                 "owner": "dojo",
                 "repo": "loader",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:02.681Z"
             },
@@ -414,12 +551,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":rocket: Dojo 2 - routing library.",
+                "homepage": "http://dojo.io",
                 "id": 35429260,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2018-07-30T12:24:40Z",
+                "open_issues": 0,
                 "owner": "dojo",
                 "repo": "routing",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:02.681Z"
             },
@@ -430,12 +572,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":rocket: Dojo 2 - provides modular fills of ES6+ functionality.",
+                "homepage": "http://dojo.io",
                 "id": 61533876,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2018-07-30T12:25:36Z",
+                "open_issues": 6,
                 "owner": "dojo",
                 "repo": "shim",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:02.681Z"
             },
@@ -446,12 +593,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "**DEPRECATED** Dojo 2 - DOM utilities.",
+                "homepage": "http://dojo.io",
                 "id": 35428415,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2017-10-18T22:26:46Z",
+                "open_issues": 0,
                 "owner": "dojo",
                 "repo": "dom",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "proposal"
+                ]
               },
               "first_seen": "2026-08-28T17:43:02.681Z"
             },
@@ -462,12 +616,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "**DEPRECATED** Dojo 2 - composition library.",
+                "homepage": "http://dojo.io",
                 "id": 43679920,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2017-10-31T16:43:49Z",
+                "open_issues": 0,
                 "owner": "dojo",
                 "repo": "compose",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:02.681Z"
             },
@@ -478,12 +637,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":rocket: Dojo 2 - an application framework.",
+                "homepage": "http://dojo.io",
                 "id": 59028028,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2017-10-31T16:59:07Z",
+                "open_issues": 1,
                 "owner": "dojo",
                 "repo": "app",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "proposal"
+                ]
               },
               "first_seen": "2026-08-28T17:43:02.681Z"
             },
@@ -494,12 +660,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":rocket: Dojo 2 - feature detection library.",
+                "homepage": "http://dojo.io",
                 "id": 62228964,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2018-07-30T12:23:06Z",
+                "open_issues": 1,
                 "owner": "dojo",
                 "repo": "has",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:02.681Z"
             },
@@ -510,12 +681,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":rocket: Dojo 2 - library for declaratively instantiating widgets.",
+                "homepage": "http://dojo.io",
                 "id": 42916549,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2017-04-11T09:36:12Z",
+                "open_issues": 0,
                 "owner": "dojo",
                 "repo": "parser",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "deprecated"
+                ]
               },
               "first_seen": "2026-08-28T17:43:02.681Z"
             }
@@ -537,12 +715,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dojo and django - the perfect couple",
+            "homepage": null,
             "id": 2719951,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2015-11-22T10:35:34Z",
+            "open_issues": 21,
             "owner": "klipstein",
             "repo": "dojango",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -553,12 +736,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Maven packaging of the dojo toolkit",
+            "homepage": null,
             "id": 12941114,
             "language": "Java",
+            "license": null,
             "last_commit": "2022-12-04T17:53:46Z",
+            "open_issues": 1,
             "owner": "cometd",
             "repo": "dojo-maven",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -574,12 +762,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Reactive Extensions bindings for the Dojo Toolkit",
+                "homepage": null,
                 "id": 2685329,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2014-08-25T21:41:33Z",
+                "open_issues": 0,
                 "owner": "Reactive-Extensions",
                 "repo": "RxJS-Dojo",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:02.681Z"
             },
@@ -590,12 +783,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ".NET class library that provides WebControl bindings to ASP.NET websites (both WebForms and MVC, including Razor) using the Dojo toolkit.",
+                "homepage": null,
                 "id": 2888323,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2012-05-24T17:57:19Z",
+                "open_issues": 0,
                 "owner": "lstratman",
                 "repo": "Dojo.NET",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:02.681Z"
             }
@@ -613,12 +811,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Server side dojo on NodeJS",
+                "homepage": null,
                 "id": 2553112,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2013-03-01T07:41:20Z",
+                "open_issues": 0,
                 "owner": "supnate",
                 "repo": "dojos",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:02.681Z"
             },
@@ -629,12 +832,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a lightwave dojo framework wrapper for node.js use the rich framework components in your node environment.",
+                "homepage": "http://twitter.com/#!/agebrock",
                 "id": 1384561,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-04-06T16:11:18Z",
+                "open_issues": 0,
                 "owner": "agebrock",
                 "repo": "dojo-node",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:02.681Z"
             }
@@ -652,12 +860,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "custom composer installers for zoop packages",
+                "homepage": null,
                 "id": 12049311,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2013-09-04T00:32:04Z",
+                "open_issues": 0,
                 "owner": "zoopcommerce",
                 "repo": "pixie",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:02.681Z"
             }
@@ -676,12 +889,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Yeoman generator for intern tests",
+            "homepage": null,
             "id": 29974943,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-04-17T15:28:50Z",
+            "open_issues": 1,
             "owner": "naglalakk",
             "repo": "generator-intern",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -692,12 +910,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Opinionated Page Object scaffolding for internjs",
+            "homepage": null,
             "id": 31323411,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-04-15T18:12:26Z",
+            "open_issues": 0,
             "owner": "glamb",
             "repo": "generator-internjs-pageobjects",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         }
@@ -714,12 +937,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helping you select a JavaScript framework - Todo apps for React.js, Angular, Vue and many more",
+            "homepage": "http://todomvc.com",
             "id": 1844251,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-06T23:35:53Z",
+            "open_issues": 72,
             "owner": "tastejs",
             "repo": "todomvc",
-            "stars": 28949
+            "stars": 28950,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -730,12 +958,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":rocket: Dojo - example applications.",
+            "homepage": "http://dojo.io",
             "id": 62800980,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-09-26T15:31:12Z",
+            "open_issues": 4,
             "owner": "dojo",
             "repo": "examples",
-            "stars": 76
+            "stars": 76,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -746,12 +979,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AuShadha (औषध): Means medicine in Sanskrit. This is a Electronic Medical Records (EMR) and Public Health Management for small clinics written in Django and Dojo ",
+            "homepage": "http://dreaswar.github.com/AuShadha/",
             "id": 5544199,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2018-08-17T04:51:14Z",
+            "open_issues": 13,
             "owner": "dreaswar",
             "repo": "AuShadha",
-            "stars": 75
+            "stars": 75,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -762,12 +1000,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Using the Dojo Toolkit for MVC JavaScript applications",
+            "homepage": null,
             "id": 1563603,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2011-07-13T05:27:56Z",
+            "open_issues": 2,
             "owner": "rmurphey",
             "repo": "dojo-demo",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -778,12 +1021,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Single page demo application based on Dojo 1.9, Twitter Bootstrap 3 and history API",
+            "homepage": "dojorama.org",
             "id": 6649321,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2014-02-23T11:47:11Z",
+            "open_issues": 0,
             "owner": "sirprize",
             "repo": "dojorama",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -794,12 +1042,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaScript library for launching WebDriver service tunnels.",
+            "homepage": "https://theintern.github.io/digdug/",
             "id": 19957276,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-01T01:25:58Z",
+            "open_issues": 7,
             "owner": "theintern",
             "repo": "digdug",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -810,12 +1063,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple reST/wiki system",
+            "homepage": null,
             "id": 1326209,
             "language": "CSS",
+            "license": null,
             "last_commit": "2014-06-05T22:58:31Z",
+            "open_issues": 3,
             "owner": "phiggins42",
             "repo": "rstwiki",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -826,12 +1084,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dojox Application Framework for mobile, tablets, and desktops",
+            "homepage": null,
             "id": 1612650,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2014-12-15T13:43:40Z",
+            "open_issues": 15,
             "owner": "dmachi",
             "repo": "dojox_application",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -842,12 +1105,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dojo 1 - API viewer.",
+            "homepage": null,
             "id": 8827147,
             "language": "CSS",
+            "license": null,
             "last_commit": "2015-03-24T22:18:00Z",
+            "open_issues": 5,
             "owner": "dojo",
             "repo": "dapi",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -858,12 +1126,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dojo 1 - Library for parsing dojo JavaScript files and extracting inline documentation.",
+            "homepage": null,
             "id": 4501977,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-01-17T22:41:51Z",
+            "open_issues": 1,
             "owner": "dojo",
             "repo": "js-doc-parse",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         }
@@ -880,12 +1153,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dojo 1 - TypeScript Typings (including Dijit and DojoX)",
+            "homepage": null,
             "id": 49503609,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-03-01T02:37:21Z",
+            "open_issues": 25,
             "owner": "dojo",
             "repo": "typings",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -896,12 +1174,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Using Dojo 1 with Microsoft TypeScript",
+            "homepage": null,
             "id": 10236128,
             "language": null,
+            "license": "MIT",
             "last_commit": "2016-02-29T06:56:38Z",
+            "open_issues": 0,
             "owner": "schungx",
             "repo": "Dojo-TypeScript",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -912,12 +1195,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A typescript script which creates typescript compatible declarations from a dojo api.json file.",
+            "homepage": null,
             "id": 6128763,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2012-10-15T01:52:44Z",
+            "open_issues": 0,
             "owner": "stopyoukid",
             "repo": "DojoToTypescriptConverter",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         }
@@ -934,12 +1222,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.",
+            "homepage": null,
             "id": 21393871,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-19T17:00:42Z",
+            "open_issues": 31,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35022
+            "stars": 35022,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -950,12 +1243,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome online javascript books.",
+            "homepage": null,
             "id": 22453515,
             "language": null,
+            "license": null,
             "last_commit": "2018-10-13T02:32:50Z",
+            "open_issues": 1,
             "owner": "heatroom",
             "repo": "awesome-javascript-books",
-            "stars": 130
+            "stars": 130,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
         },
@@ -971,12 +1269,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+                "homepage": null,
                 "id": 21737465,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-21T12:39:13Z",
+                "open_issues": 105,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 500793
+                "stars": 500897,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "lists",
+                  "resources",
+                  "unicorns"
+                ]
               },
               "first_seen": "2026-08-28T17:43:02.681Z"
             },
@@ -987,12 +1296,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The definitive list of lists (of lists) curated on GitHub and elsewhere",
+                "homepage": null,
                 "id": 14408715,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-03-23T20:19:22Z",
+                "open_issues": 22,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11441
+                "stars": 11441,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "curated-lists",
+                  "lists",
+                  "resources"
+                ]
               },
               "first_seen": "2026-08-28T17:43:02.681Z"
             },
@@ -1003,12 +1323,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome curated lists of many topics.",
+                "homepage": null,
                 "id": 21388604,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2024-07-31T23:19:05Z",
+                "open_issues": 25,
                 "owner": "emijrp",
                 "repo": "awesome-awesome",
-                "stars": 3203
+                "stars": 3203,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "first_seen": "2026-08-28T17:43:02.681Z"
             },
@@ -1019,12 +1347,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome curated lists! Inspired by inspiration.",
+                "homepage": null,
                 "id": 21636365,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-11-13T08:33:34Z",
+                "open_issues": 3,
                 "owner": "erichs",
                 "repo": "awesome-awesome",
-                "stars": 294
+                "stars": 294,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:02.681Z"
             },
@@ -1035,12 +1368,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome lists of awesome frameworks, libraries and software",
+                "homepage": "http://bradoyler.github.io/awesome-all/",
                 "id": 21757420,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-10-16T11:44:37Z",
+                "open_issues": 1,
                 "owner": "bradoyler",
                 "repo": "awesome-all",
-                "stars": 236
+                "stars": 237,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:02.681Z"
             }
@@ -1051,15 +1389,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:43:02.681Z",
+    "last_updated": "2026-08-29T04:58:19.533Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Dojo JavaScript Toolkit libraries, resources and other shiny things.",
+      "homepage": null,
       "id": 25577168,
       "language": null,
+      "license": null,
       "last_commit": "2020-09-25T22:46:54Z",
+      "open_issues": 0,
       "owner": "petk",
       "repo": "awesome-dojo",
-      "stars": 98
+      "stars": 98,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "dojo",
+        "javascript"
+      ]
     },
     "original_repository_sha": "9527cc7586561f0d5744062902620757dd7daccf",
     "enhanced_repository": "enhansome/enhansome-dojo",
