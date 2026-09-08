@@ -289,7 +289,7 @@
             "id": 15434799,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T05:03:24Z",
+            "last_commit": "2026-09-07T23:26:03Z",
             "open_issues": 51,
             "owner": "ibm-js",
             "repo": "deliteful",
@@ -946,7 +946,7 @@
             "open_issues": 72,
             "owner": "tastejs",
             "repo": "todomvc",
-            "stars": 28956,
+            "stars": 28958,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
@@ -1228,7 +1228,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-02T08:48:50Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
             "stars": 35020,
@@ -1278,7 +1278,7 @@
                 "open_issues": 106,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 503822,
+                "stars": 504099,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1305,7 +1305,7 @@
                 "open_issues": 25,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11463,
+                "stars": 11465,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1377,7 +1377,7 @@
                 "open_issues": 1,
                 "owner": "bradoyler",
                 "repo": "awesome-all",
-                "stars": 237,
+                "stars": 238,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:02.681Z"
@@ -1389,7 +1389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T10:44:42.321Z",
+    "last_updated": "2026-09-08T10:06:01.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dojo JavaScript Toolkit libraries, resources and other shiny things.",
