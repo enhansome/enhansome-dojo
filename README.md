@@ -1,6 +1,6 @@
 # Awesome Dojo with stars
 
-[<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18">](https://github.com/sindresorhus/awesome) ⭐ 512,654 | 🐛 106 | 📅 2026-09-02
+[<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18">](https://github.com/sindresorhus/awesome) ⭐ 513,038 | 🐛 106 | 📅 2026-09-02
 [![CCO License](https://img.shields.io/badge/license-CC0-blue.svg?style=plastic "CC0 License")](#contributing-and-license)
 [![Project Maintained](https://img.shields.io/badge/project-maintained-brightgreen.svg?style=plastic "Project Maintained")](https://github.com/petk/awesome-dojo/commits/master) ⭐ 99 | 🐛 0 | 📅 2020-09-25
 [![Build Status](https://img.shields.io/travis/petk/awesome-dojo/master.svg)](https://travis-ci.org/petk/awesome-dojo)
@@ -183,10 +183,10 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Other Awesome Lists
 
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,031 | 🐛 26 | 📅 2026-09-08 - awesome JavaScript list
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,033 | 🐛 26 | 📅 2026-09-08 - awesome JavaScript list
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) ⭐ 130 | 🐛 1 | 📅 2018-10-13 - awesome JavaScript books
 * awesome lists:
-  * [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,654 | 🐛 106 | 📅 2026-09-02 - awesome list
+  * [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,038 | 🐛 106 | 📅 2026-09-02 - awesome list
   * [lists](https://github.com/jnv/lists) ⭐ 11,519 | 🐛 32 | 📅 2026-03-23 - awesome lists
   * [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,217 | 🐛 29 | 📅 2024-07-31 - awesome list
   * [awesome-awesome](https://github.com/erichs/awesome-awesome) ⭐ 297 | 🐛 3 | 📅 2023-11-13 - awesome lists
@@ -207,4 +207,4 @@ To the extent possible under law, [Peter Kokot](https://github.com/petk) has wai
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
