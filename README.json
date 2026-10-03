@@ -48,7 +48,7 @@
         {
           "node_type": "item",
           "title": "Reference guide",
-          "description": "http://dojotoolkit.org/reference-guide/1.10/",
+          "description": "dojo/docs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1278,7 +1278,7 @@
                 "open_issues": 106,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 513481,
+                "stars": 513795,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1332,7 +1332,7 @@
                 "open_issues": 29,
                 "owner": "emijrp",
                 "repo": "awesome-awesome",
-                "stars": 3217,
+                "stars": 3218,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -1389,7 +1389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:22:11.281Z",
+    "last_updated": "2026-10-03T04:41:52.773Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dojo JavaScript Toolkit libraries, resources and other shiny things.",
