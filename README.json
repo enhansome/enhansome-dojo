@@ -289,8 +289,8 @@
             "id": 15434799,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T08:06:07Z",
-            "open_issues": 52,
+            "last_commit": "2026-10-14T02:37:22Z",
+            "open_issues": 51,
             "owner": "ibm-js",
             "repo": "deliteful",
             "stars": 71,
@@ -946,7 +946,7 @@
             "open_issues": 74,
             "owner": "tastejs",
             "repo": "todomvc",
-            "stars": 28956,
+            "stars": 28958,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
@@ -1227,11 +1227,11 @@
             "id": 21393871,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-10T10:24:22Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-14T09:42:55Z",
+            "open_issues": 26,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35029,
+            "stars": 35027,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
@@ -1278,7 +1278,7 @@
                 "open_issues": 105,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 518418,
+                "stars": 518854,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1305,7 +1305,7 @@
                 "open_issues": 32,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11555,
+                "stars": 11557,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1389,7 +1389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T12:57:49.416Z",
+    "last_updated": "2026-10-14T10:38:11.572Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dojo JavaScript Toolkit libraries, resources and other shiny things.",
