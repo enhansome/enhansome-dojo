@@ -946,7 +946,7 @@
             "open_issues": 74,
             "owner": "tastejs",
             "repo": "todomvc",
-            "stars": 28962,
+            "stars": 28963,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
@@ -1228,7 +1228,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-25T17:49:17Z",
-            "open_issues": 32,
+            "open_issues": 33,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
             "stars": 35036,
@@ -1278,7 +1278,7 @@
                 "open_issues": 105,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 524908,
+                "stars": 525393,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1305,7 +1305,7 @@
                 "open_issues": 32,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11596,
+                "stars": 11601,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1332,7 +1332,7 @@
                 "open_issues": 26,
                 "owner": "emijrp",
                 "repo": "awesome-awesome",
-                "stars": 3237,
+                "stars": 3239,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -1356,7 +1356,7 @@
                 "open_issues": 3,
                 "owner": "erichs",
                 "repo": "awesome-awesome",
-                "stars": 298,
+                "stars": 299,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:02.681Z"
@@ -1377,7 +1377,7 @@
                 "open_issues": 1,
                 "owner": "bradoyler",
                 "repo": "awesome-all",
-                "stars": 238,
+                "stars": 239,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:02.681Z"
@@ -1389,7 +1389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T11:33:38.119Z",
+    "last_updated": "2026-10-27T11:01:34.628Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dojo JavaScript Toolkit libraries, resources and other shiny things.",
@@ -1397,8 +1397,8 @@
       "id": 25577168,
       "language": null,
       "license": null,
-      "last_commit": "2020-09-25T22:46:54Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-26T12:20:46Z",
+      "open_issues": 0,
       "owner": "petk",
       "repo": "awesome-dojo",
       "stars": 99,
@@ -1409,7 +1409,7 @@
         "javascript"
       ]
     },
-    "original_repository_sha": "9527cc7586561f0d5744062902620757dd7daccf",
+    "original_repository_sha": "466bea8b41a703bdef70c2ad8eb82c15bd9fb842",
     "enhanced_repository": "enhansome/enhansome-dojo",
     "enhanced_repository_description": null,
     "title": "Awesome Dojo with stars"
