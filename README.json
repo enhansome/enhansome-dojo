@@ -289,7 +289,7 @@
             "id": 15434799,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T00:30:01Z",
+            "last_commit": "2026-10-30T23:35:42Z",
             "open_issues": 51,
             "owner": "ibm-js",
             "repo": "deliteful",
@@ -310,8 +310,8 @@
             "id": 10597439,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T00:30:48Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-31T05:13:49Z",
+            "open_issues": 14,
             "owner": "ibm-js",
             "repo": "delite",
             "stars": 68,
@@ -1228,10 +1228,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-25T17:49:17Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35039,
+            "stars": 35041,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
@@ -1278,7 +1278,7 @@
                 "open_issues": 105,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 527119,
+                "stars": 527727,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1301,11 +1301,11 @@
                 "id": 14408715,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-29T19:14:47Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-30T21:52:58Z",
+                "open_issues": 0,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11612,
+                "stars": 11617,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1332,7 +1332,7 @@
                 "open_issues": 26,
                 "owner": "emijrp",
                 "repo": "awesome-awesome",
-                "stars": 3238,
+                "stars": 3239,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -1389,7 +1389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T11:40:09.793Z",
+    "last_updated": "2026-10-31T11:15:01.715Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dojo JavaScript Toolkit libraries, resources and other shiny things.",
