@@ -946,7 +946,7 @@
             "open_issues": 82,
             "owner": "tastejs",
             "repo": "todomvc",
-            "stars": 28970,
+            "stars": 28975,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
@@ -1227,11 +1227,11 @@
             "id": 21393871,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-25T17:49:17Z",
-            "open_issues": 38,
+            "last_commit": "2026-11-10T18:59:21Z",
+            "open_issues": 39,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35032,
+            "stars": 35033,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
@@ -1278,7 +1278,7 @@
                 "open_issues": 103,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 534612,
+                "stars": 535156,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1305,7 +1305,7 @@
                 "open_issues": 3,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11650,
+                "stars": 11654,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1329,10 +1329,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2024-07-31T23:19:05Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "emijrp",
                 "repo": "awesome-awesome",
-                "stars": 3244,
+                "stars": 3243,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -1389,7 +1389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T13:47:28.609Z",
+    "last_updated": "2026-11-11T12:58:04.305Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dojo JavaScript Toolkit libraries, resources and other shiny things.",
