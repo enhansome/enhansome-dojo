@@ -943,10 +943,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-06-06T23:35:53Z",
-            "open_issues": 85,
+            "open_issues": 86,
             "owner": "tastejs",
             "repo": "todomvc",
-            "stars": 28973,
+            "stars": 28975,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
@@ -1228,10 +1228,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-11-10T18:59:21Z",
-            "open_issues": 41,
+            "open_issues": 40,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35036,
+            "stars": 35039,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
@@ -1278,7 +1278,7 @@
                 "open_issues": 104,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 538331,
+                "stars": 538825,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1305,7 +1305,7 @@
                 "open_issues": 7,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11666,
+                "stars": 11670,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1332,7 +1332,7 @@
                 "open_issues": 28,
                 "owner": "emijrp",
                 "repo": "awesome-awesome",
-                "stars": 3247,
+                "stars": 3250,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -1389,7 +1389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T14:55:16.227Z",
+    "last_updated": "2026-11-18T14:34:53.531Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dojo JavaScript Toolkit libraries, resources and other shiny things.",
