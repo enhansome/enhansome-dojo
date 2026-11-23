@@ -946,7 +946,7 @@
             "open_issues": 86,
             "owner": "tastejs",
             "repo": "todomvc",
-            "stars": 28975,
+            "stars": 28976,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:02.681Z"
@@ -1227,8 +1227,8 @@
             "id": 21393871,
             "language": null,
             "license": null,
-            "last_commit": "2026-11-21T22:01:40Z",
-            "open_issues": 42,
+            "last_commit": "2026-11-22T14:11:41Z",
+            "open_issues": 43,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
             "stars": 35040,
@@ -1278,7 +1278,7 @@
                 "open_issues": 103,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 540844,
+                "stars": 541499,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1302,10 +1302,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-11-05T23:20:38Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11674,
+                "stars": 11678,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1332,7 +1332,7 @@
                 "open_issues": 28,
                 "owner": "emijrp",
                 "repo": "awesome-awesome",
-                "stars": 3251,
+                "stars": 3252,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -1389,7 +1389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T13:37:25.500Z",
+    "last_updated": "2026-11-23T16:30:23.144Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dojo JavaScript Toolkit libraries, resources and other shiny things.",
