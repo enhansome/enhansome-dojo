@@ -1,6 +1,6 @@
 # Awesome Dojo with stars
 
-[<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18">](https://github.com/sindresorhus/awesome) ⭐ 541,499 | 🐛 103 | 📅 2026-09-02
+[<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18">](https://github.com/sindresorhus/awesome) ⭐ 542,138 | 🐛 103 | 📅 2026-09-02
 [![CCO License](https://img.shields.io/badge/license-CC0-blue.svg?style=plastic "CC0 License")](#contributing-and-license)
 [![Project Maintained](https://img.shields.io/badge/project-maintained-brightgreen.svg?style=plastic "Project Maintained")](https://github.com/petk/awesome-dojo/commits/master)
 [![Build Status](https://img.shields.io/travis/petk/awesome-dojo/master.svg)](https://travis-ci.org/petk/awesome-dojo)
@@ -62,8 +62,8 @@ Inspired by the `awesome-*` trend on GitHub.
 
 * [Sitepen dstore](https://github.com/SitePen/dstore) ⭐ 281 | 🐛 53 | 🌐 JavaScript | 📅 2021-09-08 - Data infrastructure framework, providing the tools for modelling and interacting with data collections and objects.
 * [Leadfoot](https://github.com/theintern/leadfoot) ⭐ 169 | 🐛 14 | 🌐 TypeScript | 📅 2023-03-04 - A JavaScript client library that brings cross-platform consistency to the Selenium WebDriver API
-* [deliteful](https://github.com/ibm-js/deliteful) ⭐ 71 | 🐛 51 | 🌐 JavaScript | 📅 2026-11-03 - Multichannel (desktop/mobile) UI Custom Elements Library
-* [delite](https://github.com/ibm-js/delite) ⭐ 68 | 🐛 13 | 🌐 JavaScript | 📅 2026-11-03 - HTML Custom Element / Widget infrastructure
+* [deliteful](https://github.com/ibm-js/deliteful) ⚠️ Archived - Multichannel (desktop/mobile) UI Custom Elements Library
+* [delite](https://github.com/ibm-js/delite) ⚠️ Archived - HTML Custom Element / Widget infrastructure
 * [generator-dojo](https://github.com/bryanforbes/generator-dojo) ⭐ 37 | 🐛 5 | 🌐 JavaScript | 📅 2014-08-22 - A yeoman generator for Dojo projects
 * [AngularJS Dojo](https://github.com/adrobisch/angular-dojo) ⭐ 32 | 🐛 1 | 🌐 JavaScript | 📅 2014-04-18 - AngularJS directives for dojo widgets
 * [grunt-dojo](https://github.com/phated/grunt-dojo) ⭐ 32 | 🐛 0 | 🌐 JavaScript | 📅 2018-07-30 - Build Dojo inside a Grunt task
@@ -183,11 +183,11 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Other Awesome Lists
 
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,040 | 🐛 43 | 📅 2026-11-22 - awesome JavaScript list
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,040 | 🐛 44 | 📅 2026-11-22 - awesome JavaScript list
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) ⭐ 130 | 🐛 1 | 📅 2018-10-13 - awesome JavaScript books
 * awesome lists:
-  * [awesome](https://github.com/sindresorhus/awesome) ⭐ 541,499 | 🐛 103 | 📅 2026-09-02 - awesome list
-  * [lists](https://github.com/jnv/lists) ⭐ 11,678 | 🐛 9 | 📅 2026-11-05 - awesome lists
+  * [awesome](https://github.com/sindresorhus/awesome) ⭐ 542,138 | 🐛 103 | 📅 2026-09-02 - awesome list
+  * [lists](https://github.com/jnv/lists) ⭐ 11,680 | 🐛 9 | 📅 2026-11-05 - awesome lists
   * [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,252 | 🐛 28 | 📅 2024-07-31 - awesome list
   * [awesome-awesome](https://github.com/erichs/awesome-awesome) ⭐ 299 | 🐛 3 | 📅 2023-11-13 - awesome lists
   * [awesome-all](https://github.com/bradoyler/awesome-all) ⭐ 239 | 🐛 1 | 🌐 HTML | 📅 2024-10-16 - awesome lists
@@ -207,4 +207,4 @@ To the extent possible under law, [Peter Kokot](https://github.com/petk) has wai
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._

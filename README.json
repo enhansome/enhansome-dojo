@@ -283,7 +283,7 @@
           "description": "Multichannel (desktop/mobile) UI Custom Elements Library",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Multichannel (desktop/mobile) UI Custom Elements Library",
             "homepage": "http://ibm-js.github.io/deliteful",
             "id": 15434799,
@@ -304,7 +304,7 @@
           "description": "HTML Custom Element / Widget infrastructure",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "HTML Custom Element / Widget infrastructure",
             "homepage": "http://ibm-js.github.io/delite/",
             "id": 10597439,
@@ -1228,7 +1228,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-11-22T14:11:41Z",
-            "open_issues": 43,
+            "open_issues": 44,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
             "stars": 35040,
@@ -1278,7 +1278,7 @@
                 "open_issues": 103,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 541499,
+                "stars": 542138,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1305,7 +1305,7 @@
                 "open_issues": 9,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11678,
+                "stars": 11680,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1389,7 +1389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T16:30:23.144Z",
+    "last_updated": "2026-11-24T16:28:48.145Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dojo JavaScript Toolkit libraries, resources and other shiny things.",
